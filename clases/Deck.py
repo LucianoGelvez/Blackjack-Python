@@ -32,4 +32,3 @@ class Deck:
 test_deck = Deck()
 test_deck.shuffle()
 new_card = test_deck.deal()
-print(new_card)
