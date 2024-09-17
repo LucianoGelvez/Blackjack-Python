@@ -3,9 +3,3 @@ class Player:
         self.nombre = nombre
         self.hand = []
         self.bet = 0
-
-    def barrow():
-        pass
-
-    def stop():
-        pass
